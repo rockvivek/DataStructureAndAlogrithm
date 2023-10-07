@@ -12,7 +12,7 @@ func isPrimeNumber(number: Int) -> Bool{
     return true
 }
 
-let number = 78 
+let number = 78
 let isPrime = isPrimeNumber(number: number)
 print("the given number \(number) is prime: \(isPrime)")
 
