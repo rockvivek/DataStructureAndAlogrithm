@@ -1,7 +1,7 @@
 import UIKit
 import Foundation
 
-//sum of n natural number
+//check if pythagorian triplet
 func sumOfNNaturalNumber(_ n: Int) -> Int{
     if n == 1 {
         return 1
