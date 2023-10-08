@@ -23,6 +23,7 @@ let key = 63
 
 let foundIndex = linearSearch(arr: arr, n: arr.count,key: key)
 if foundIndex == -1 {
+if foundIndex == -1 {
     print("key not found in array")
 }
 else {
